@@ -123,5 +123,5 @@ Consulta el archivo `LICENSE` para más detalles.
 ## Autor
 
 **Ángel León**  
-[https://github.com/tu_usuario](https://github.com/tu_usuario)  
-angel.leon@example.com
+[https://github.com/angelgleon2014](https://github.com/angelgleon2014)  
+angelgleoncl@gmail.com
