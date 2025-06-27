@@ -9,6 +9,7 @@ from gtts import gTTS
 
 async def synthesize_text(text: str) -> str:
     filename: str = "output.mp3"
-    tts: gTTS = gTTS(text)
+    # tts: gTTS = gTTS(text)
+    tts = gTTS(text=text, lang='es', tld='com.mx')  # 'es' es español; tld='com.mx' para México
     tts.save(filename)
     return filename

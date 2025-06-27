@@ -26,7 +26,7 @@ dist/
 *.swp
 
 # Archivos de salida del proyecto
-output.mp3
+*.mp3
 temp_*.mp3
 temp_*.wav
 temp_*.m4a
