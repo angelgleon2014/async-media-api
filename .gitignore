@@ -1,0 +1,37 @@
+# Entorno virtual
+venv/
+
+# Archivos temporales de Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Archivos de log y bases de datos temporales
+*.log
+*.sqlite3
+*.db
+
+# Archivos de configuración de entorno local
+.env
+.env.*
+
+# Archivos de salida y compilación
+build/
+dist/
+*.egg-info/
+
+# Archivos de usuario de VSCode y otros editores
+.vscode/
+.idea/
+*.swp
+
+# Archivos de salida del proyecto
+output.mp3
+temp_*.mp3
+temp_*.wav
+temp_*.m4a
+*.tmp
+
+# Carpetas de caché
+.cache/
+.whisper/
